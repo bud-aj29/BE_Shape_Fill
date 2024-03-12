@@ -5,7 +5,7 @@
   - Added rotated cylinder
   - Added rotated torus
   - Added pyramid
-  - Cone and pyramid accepts a base smaller than the top radius, to create inverted shapes
+  - Cone and pyramid accepts a base smaller than the top measurement, to create inverted shapes
 
 ![Shape_Fill_2](https://github.com/bud-aj29/BE_Shape_Fill/assets/99773087/2a927d8e-709d-4d04-bb5b-305344cafa2e)
 
