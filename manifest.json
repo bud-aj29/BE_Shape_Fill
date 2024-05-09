@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Fill shaped patterns by custom command input",
+    "name": "Shape_Fill_v0.0.3",
+    "uuid": "7601c52f-e15d-4002-89b0-cc6b5ea5781a",
+    "version": [
+      0,
+      0,
+      3
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      80
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "script",
+      "language": "javascript",
+      "entry": "scripts/Shape_Fill.js",
+      "uuid": "41998c46-7652-4044-8647-6564b2d053f7",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.8.0"
+    }
+  ]
+}
